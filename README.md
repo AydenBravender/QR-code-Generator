@@ -6,7 +6,7 @@
 
 <center>
 
-| ![image1](https://github.com/AydenBravender/mediapipe_door_opener/blob/main/mediapipe.gif?raw=true) | ![image2](https://github.com/AydenBravender/mediapipe_door_opener/blob/main/dooropening.gif?raw=true) |
+| ![image1](https://github.com/AydenBravender/QR-code-Generator/blob/main/hello_world.png?raw=true) | ![image2](https://github.com/AydenBravender/mediapipe_door_opener/blob/main/dooropening.gif?raw=true) |
 |--------------------------|--------------------------|
 
 </center>
